@@ -1,0 +1,324 @@
+.clearmargin {
+  margin: 0px;
+}
+
+.clearpadding {
+  padding: 0px;
+}
+
+.row-image-txt {
+  background-color: rgb(42,42,42);
+}
+
+.row-image-txt h1 {
+  color: white;
+}
+
+.row-image-txt p {
+  color: white;
+}
+
+@media (min-width: 280px) {
+  #businessvision {
+    width: 100%;
+  }
+}
+
+@media (min-width: 280px) {
+  #manufacturing {
+    width: 100%;
+  }
+}
+
+@media (min-width: 280px) {
+  #valued {
+    width: 100%;
+  }
+}
+
+@media (min-width: 280px) {
+  #valuedpic {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  #mission {
+    width: 200px;
+    margin-left: 250px;
+  }
+}
+
+@media (min-width: 992px) {
+  #businessvision {
+    width: 310px;
+  }
+}
+
+@media (min-width: 992px) {
+  #manufacturing {
+    width: 332px;
+    margin-left: 132px;
+  }
+}
+
+@media (min-width: 992px) {
+  #valued {
+    width: 454px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #mission {
+    margin-left: 355px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #businessvision {
+    width: 338px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #manufacturing {
+    margin-left: 0px;
+    width: 556px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #valued {
+    width: 491px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #mission {
+    margin-left: 450px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #manufacturing {
+    margin-left: 101px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #mission {
+    margin-left: 385px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #manufacturing {
+    margin-left: 38px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #mission {
+    margin-left: 460px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #manufacturing {
+    margin-left: 106px;
+  }
+}
+
+@media (min-width: 992px) {
+  #autoheader {
+    width: 70%;
+  }
+}
+
+@media (min-width: 280px) {
+  #autoheader {
+    width: 261px;
+  }
+}
+
+@media (min-width: 300px) {
+  #autoheader {
+    width: 343px;
+  }
+}
+
+@media (min-width: 576px) {
+  #autoheader {
+    width: 552px;
+  }
+}
+
+@media (min-width: 768px) {
+  #autoheader {
+    width: 552px;
+  }
+}
+
+@media (min-width: 992px) {
+  #autoheader {
+    width: 730px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #autoheader {
+    width: 865px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #autoheader {
+    width: 972px;
+  }
+}
+
+@media (min-width: 280px) {
+  #nonautomotiveheader {
+    width: 257px;
+  }
+}
+
+@media (min-width: 300px) {
+  #nonautomotiveheader {
+    width: 332px;
+  }
+}
+
+@media (min-width: 576px) {
+  #nonautomotiveheader {
+    width: 420px;
+  }
+}
+
+@media (min-width: 768px) {
+  #nonautomotiveheader {
+    width: 562px;
+  }
+}
+
+@media (min-width: 992px) {
+  #nonautomotiveheader {
+    width: 700px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #nonautomotiveheader {
+    width: 840px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #nonautomotiveheader {
+    width: 950px;
+  }
+}
+
+#nonautomotiveheader {
+}
+
+@media (min-width: 280px) {
+  #afterproducts {
+    width: 272px;
+  }
+}
+
+@media (min-width: 300px) {
+  #afterproducts {
+    width: 340px;
+  }
+}
+
+@media (min-width: 576px) {
+  #afterproducts {
+    width: 500px;
+  }
+}
+
+@media (min-width: 768px) {
+  #afterproducts {
+    width: 620px;
+  }
+}
+
+@media (min-width: 992px) {
+  #afterproducts {
+    width: 710px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #afterproducts {
+    width: 820px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #afterproducts {
+    width: 920px;
+  }
+}
+
+@media (min-width: 992px) {
+  #bagvcovertool {
+    width: 500px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #bagvcovertool {
+    width: 620px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #bagvcovertool {
+    margin-left: 350px;
+  }
+}
+
+@media (min-width: 280px) {
+  #reuphol {
+    width: 250px;
+  }
+}
+
+@media (min-width: 300px) {
+  #reuphol {
+    width: 320px;
+  }
+}
+
+@media (min-width: 576px) {
+  #reuphol {
+    width: 500px;
+  }
+}
+
+@media (min-width: 768px) {
+  #reuphol {
+    width: 670px;
+  }
+}
+
+@media (min-width: 992px) {
+  #reuphol {
+    margin-left: 150px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #reuphol {
+    margin-left: 220px;
+  }
+}
+
+#reuphol {
+  margin-left: 320px;
+}
+
